@@ -3,6 +3,9 @@ Project for NVIDIA Jetson AI Specialist, classification of guitar models
 
 ![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Acoustic%20Guitar.gif)
 
+![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Strat.gif)
+
+![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/LesPaul.gif)
 
 
 This project is based on the Thumbs Project from Nvidia's Getting Started with AI on Jetson Nano Course, we will be using the same template found from the course. The following steps and explanations are found in the Nvidia Course:
@@ -42,6 +45,6 @@ This is the last code cell. All that's left to do is pack all the widgets into o
 
 We have created a new task, Guitars, and defined Acoustic Guitar, Les Paul Guitar, and Stratocaster Guitar as the CATEGORIES parameters for our new task.
 
-Similarly, to collect data, we must collect images following what we would like to classify. In our case, the signs of Acoustic Guitar, Les Paul Guitar, and Stratocaster Guitar models that are commonly produced. First, we would have to select the modelin which we are going to collect images for. Once we have enough images for each letter, we will begin the training process. After training, we can test our model by either showing images or actual guitar models through the camera. If the program is not accurately classifying the guitar models, we may need to collect more data and train once again. For convenience, the data used to train this model is also included in the repository along with the original images that were shown on the screen that the webcam was collecting from 
+Similarly, to collect data, we must collect images following what we would like to classify. In our case, the signs of Acoustic Guitar, Les Paul Guitar, and Stratocaster Guitar models that are commonly produced. First, we would have to select the modelin which we are going to collect images for. Once we have enough images for each letter, we will begin the training process. After training, we can test our model by either showing images or actual guitar models through the camera. If the program is not accurately classifying the guitar models, we may need to collect more data and train once again.
 
 This project is a small step towards expanding the number of models available to recognize physical objects. As this model may be the first of its kind to differentiate between guitar models, we understand that the path towards being able to recognize any object is paved by labeling and organzing new objects as we have done here.
