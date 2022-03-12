@@ -2,10 +2,13 @@
 Project for NVIDIA Jetson AI Specialist, classification of guitar models
 
 ![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Acoustic%20Guitar.gif)
+## Acoustic Guitar
 
 ![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Strat.gif)
+## Stratocaster Guitar
 
 ![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/LesPaul.gif)
+## Les Paul Guitar
 
 
 This project is based on the Thumbs Project from Nvidia's Getting Started with AI on Jetson Nano Course, we will be using the same template found from the course. The following steps and explanations are found in the Nvidia Course:
