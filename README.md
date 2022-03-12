@@ -7,7 +7,7 @@ Project for NVIDIA Jetson AI Specialist, classification of guitar models
 ![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Strat.gif)
 ## Stratocaster Guitar
 
-![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/LesPaul.gif)
+![til](https://github.com/CamYench/NVIDIA-Jetson-AI-Specialist-Project/blob/main/Gifs/LesPaul.gif)
 ## Les Paul Guitar
 
 
